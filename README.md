@@ -5,5 +5,5 @@ Web developer · gabrielsvarela1@gmail.com
 - [tellusspain.es](https://tellusspain.es/): Erasmus+ mobility website
 
 **Projects**
-- Last Slice: browser game ([play](https://pizzaria-sitiada.vercel.app) · [code](https://github.com/gabrielsvarela1/last-slice))
+- Last Slice: browser game ([play](https://last-slice.vercel.app) · [code](https://github.com/gabrielsvarela1/last-slice))
 - Flashcards: spaced-repetition study app ([open](https://gvflashcards.vercel.app) · [code](https://github.com/gabrielsvarela1/flashcards))
